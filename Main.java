@@ -1,5 +1,9 @@
 /*
- * Test the use of the Color method
+ *  Main class
+ *  Author: Shobhin Basu
+ *  Email: sbasu25@wisc.edu
+ *  CS Account: shobhin
+ *  Description: Test the use of the Color method
  */
 import java.util.*;
 

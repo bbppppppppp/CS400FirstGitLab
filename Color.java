@@ -1,5 +1,9 @@
 /*
  *	Color class
+ *  Author: Shobhin Basu
+ *  Email: sbasu25@wisc.edu
+ *  CS Account: shobhin
+ *  Description: This class provides methods to manipulate colors.
  */
 public class Color{
 	private String color;
