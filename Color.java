@@ -25,8 +25,8 @@ public class Color{
 	 */
 	public boolean  changeColor(String newColor){
 		this.color = newColor;
-
-		return true;
+			
+		return isColorValid(newColor);
 	}
 
 	public boolean isColorValid(String inputColor){
